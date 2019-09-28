@@ -11,7 +11,7 @@ dpoll is a decentralized poll app on the top STEEM blockchain. Initially created
 ```
 $ python3 -m venv dpoll-env
 $ tmp source dpoll-env/bin/activate
-$ git clone https://github.com/emre/dpoll.xyz.git
+$ git clone https://github.com/elieltavares/dpoll.xyz.git
 $ cd dpoll.xyz
 $ pip install -r requirements.txt
 $ touch dpoll/base/settings.py dpoll/base/local_settings.py
